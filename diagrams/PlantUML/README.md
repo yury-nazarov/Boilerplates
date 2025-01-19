@@ -18,3 +18,9 @@
 # by link to remote file
 !includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Component.puml
 ```
+
+## Links
+- [https://c4model.com/]()
+- [https://plantuml.com/ru/guide]()
+- [PlantUML Shapes](https://github.com/plantuml-stdlib/C4-PlantUML?tab=readme-ov-file)
+- [AWS icon for plantuml](https://github.com/awslabs/aws-icons-for-plantuml)
