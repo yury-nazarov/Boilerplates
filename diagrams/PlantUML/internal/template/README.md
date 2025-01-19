@@ -1,0 +1,1 @@
+Templates witch use for diagrams
